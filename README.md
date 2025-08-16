@@ -11,16 +11,23 @@ leaderboard : A competitive Leaderboard feature to compare your green score with
 
 In backend directory install
   pip install fastapi
+  <br>
   pip install uvicorn
+  <br>
   pip install pymongo
+  <br>
   pip install python-dotenv
+  <br>
   pip install aiohttp
+  <br>
   pip install requests
 
 In frontend directory install
+<br>
   npm install
 
 first run the backend :
+<br>
   uvicorn main:app --reload
 then, run the frontend :
   npm run dev
