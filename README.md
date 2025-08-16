@@ -6,10 +6,11 @@ Goal Setting & Alerts: Set a monthly emission goal and receive alerts when it's 
 AI-Powered Estimations: Estimate CO₂ output of custom activities.
 Daily Emission Tracker: Track emissions for the current day across all categories.
 leaderboard : A competitive Leaderboard feature to compare your green score with others
-
+<br>
 ⚙️ Install dependencies :
-
+<br>
 In backend directory install
+<br>
   pip install fastapi
   <br>
   pip install uvicorn
@@ -21,7 +22,7 @@ In backend directory install
   pip install aiohttp
   <br>
   pip install requests
-
+<br>
 In frontend directory install
 <br>
   npm install
